@@ -7,12 +7,12 @@
 
 ## Next things to do:
 * What I need to learn:
-    0. Learn VScode : https://www.youtube.com/watch?v=kK-OJnro_5s&list=PLtHkJSiWWERY9fiKB8kBMug9aqFTI5_Pa&index=8
-    1. Watch HTML tutorial : https://www.youtube.com/watch?v=CLUPkcLQm64
-    2. Watch CSS tutorial: https://www.youtube.com/watch?v=Ml78vnNTBLw
-    3. Watch JS tutorial: https://www.youtube.com/watch?v=yZwlW5INhgk
-    4. Learn GIT: https://www.youtube.com/watch?v=Zd5jSDRjWfA&t=479s
-    5. Learn Github pages: https://www.youtube.com/watch?v=uegeSwdfWjQ
+    1. Learn VScode : https://www.youtube.com/watch?v=kK-OJnro_5s&list=PLtHkJSiWWERY9fiKB8kBMug9aqFTI5_Pa&index=8
+    2. Watch HTML tutorial : https://www.youtube.com/watch?v=CLUPkcLQm64
+    3. Watch CSS tutorial: https://www.youtube.com/watch?v=Ml78vnNTBLw
+    4. Watch JS tutorial: https://www.youtube.com/watch?v=yZwlW5INhgk
+    5. Learn GIT: https://www.youtube.com/watch?v=Zd5jSDRjWfA&t=479s
+    6. Learn Github pages: https://www.youtube.com/watch?v=uegeSwdfWjQ
 
 * Now I know how to write a website, I want to learn more !!!
     1. Learn Python: https://www.youtube.com/watch?v=zdMUJJKFdsU
